@@ -27,8 +27,8 @@ Tablets are most readily obtained by breaking toilets in buildings, as well as t
 
 # Trivia
 
-- Presumably, the Tablets are some kind of painkiller
-- The Tablets in the texture for the item are the same color as the suroi logo
+- Presumably, the Tablets are some kind of painkiller.
+- The Tablets in the texture for the item are the same color as the suroi logo.
 
 # History
 
